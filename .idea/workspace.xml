@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f71494b-458d-4783-a2ad-f45f2f62800f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonAulasCVideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula006.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula007.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula008.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula009.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula010.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula011.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula012.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula013.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula014.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula015.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula016.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula017.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula018.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula019.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula020.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula021.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3G311dPMHrsQMH6mpWezP60KB2E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f71494b-458d-4783-a2ad-f45f2f62800f" name="Changes" comment="" />
+      <created>1783185227294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783185227294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
