@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f71494b-458d-4783-a2ad-f45f2f62800f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonAulasCVideo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula006.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula007.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula008.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula009.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula010.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula011.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula012.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula013.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula014.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula015.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula016.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula017.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula018.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula019.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula020.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula021.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="5f71494b-458d-4783-a2ad-f45f2f62800f" name="Changes" comment="Aula 20 e 21 - python curso em video.&#10;E Arquivos adicionais.">
+      <change afterPath="$PROJECT_DIR$/aula022/numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula022/uteis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula022/uteis/datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula022/uteis/numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula022/uteis/strings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +17,30 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Meriellyssn&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Meriellyssn/PythonAulasCVideo.git&quot;,
+    &quot;accountId&quot;: &quot;cc134879-236c-42d4-87c9-03bcd33dc500&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3G311dPMHrsQMH6mpWezP60KB2E" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,13 +52,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.numeros.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Meirielly\PycharmProjects\PythonAulasCVideo\aula022" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,10 +83,84 @@
       <option name="presentableId" value="Default" />
       <updated>1783185227294</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aula 06 - python curso em video">
+      <option name="closed" value="true" />
+      <created>1783197724556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783197724556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aula 06 - python curso em video">
+      <option name="closed" value="true" />
+      <created>1783197887434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783197887434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aula 06 - python curso em video">
+      <option name="closed" value="true" />
+      <created>1783198007365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1783198007365</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aula 09 - python curso em video">
+      <option name="closed" value="true" />
+      <created>1783198032649</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783198032649</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Aula 10 - python curso em video">
+      <option name="closed" value="true" />
+      <created>1783198043815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1783198043815</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aula 11 à 13 - python curso em video">
+      <option name="closed" value="true" />
+      <created>1783198072910</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783198072910</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Aula 14 à 19 - python curso em video">
+      <option name="closed" value="true" />
+      <created>1783198098963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783198098963</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Aula 20 e 21 - python curso em video.&#10;E Arquivos adicionais.">
+      <option name="closed" value="true" />
+      <created>1783198138527</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1783198138527</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula 06 - python curso em video" />
+    <MESSAGE value="Aula 09 - python curso em video" />
+    <MESSAGE value="Aula 10 - python curso em video" />
+    <MESSAGE value="Aula 11 à 13 - python curso em video" />
+    <MESSAGE value="Aula 14 à 19 - python curso em video" />
+    <MESSAGE value="Aula 20 e 21 - python curso em video.&#10;E Arquivos adicionais." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 20 e 21 - python curso em video.&#10;E Arquivos adicionais." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
